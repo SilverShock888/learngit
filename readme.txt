@@ -3,3 +3,4 @@ Git is free software.jhgjhkgjyugiu
 jhg
 GPL
 add something
+Creating a new branch is quick.
